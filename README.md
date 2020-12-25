@@ -1,4 +1,7 @@
 <h1 align="center">Pacman</h1>
+<p align="center">
+   <img width="200" src="pacman.png">
+</p>
 
 <div align="center">
   Game like a pacman
